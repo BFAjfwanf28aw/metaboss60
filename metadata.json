@@ -1,0 +1,48 @@
+{
+  "name": "Parrot Tools #3039",
+  "symbol": "PH",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://bafybeierj6z4v75223hccw5ofg3zg7x76glshikxz3ynsfnvd3zjugynq4.ipfs.dweb.link/3039.png?ext=png",
+  "attributes": [
+   {
+      "trait_type": "Backgrounds",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Parrots",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Serious Brown"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "NFT Red"
+    },
+    {
+      "trait_type": "Beaks",
+      "value": "Squawk Yellow"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
